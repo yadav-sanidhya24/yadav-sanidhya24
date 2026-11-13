@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there, I'm Sanidhya! 👋
 
-<!--
-**yadav-sanidhya24/yadav-sanidhya24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Computer science student currently exploring software development.
+- 🔭 Interested in algorithms, problem-solving, and building cool projects.
+- 🌱 Currently learning and sharpening my skills in programming and tech.
+- ⚡ Fun fact: I love experimenting with code to see how things work under the hood!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python, C *(update these with what you use)*
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+### 📬 Connect with me
+- Feel free to check out my repositories or reach out if you want to collaborate!
